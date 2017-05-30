@@ -4,6 +4,3 @@ Find sum of all numbers in the sequence series. Recursively.
 Compile using : gcc -lstdc++ recursion.cpp
 and Run : 
 #./a.out
-50015001
-50015001
-#

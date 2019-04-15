@@ -40,7 +40,6 @@ long sum(long number, int style) {
 }
 
 int main(int argc, const char * argv[]) {
-
     cout << sum(10001, RECURSION) << endl;
     cout << sum(10001, NORMAL) << endl;
     return 0;
